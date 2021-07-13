@@ -17,19 +17,19 @@ npm start
 
 - [JavaScript](https://www.w3schools.com/js/)  –  Programming language
 
--[jQuery](https://jquery.com/)  –  JavaScript library
+- [jQuery](https://jquery.com/)  –  JavaScript library
 
--[Bootstrap](https://getbootstrap.com/)  – Potent frontend framework
+- [Bootstrap](https://getbootstrap.com/)  – Potent frontend framework
 
--[MongoDB](https://www.mongodb.com/)  – Document database
+- [MongoDB](https://www.mongodb.com/)  – Document database
 
--[Express](https://expressjs.com/)  –  Back-End Framework
+- [Express](https://expressjs.com/)  –  Back-End Framework
 
--[Node.js](https://nodejs.org/en/) – JS Runtime Environment
+- [Node.js](https://nodejs.org/en/) – JS Runtime Environment
 
--[Socket.IO](https://socket.io/)  – Enable real-time, bidirectional and event-based communication (build on the top of websocket)
+- [Socket.IO](https://socket.io/)  – Enable real-time, bidirectional and event-based communication (build on the top of websocket)
 
--[Passport](http://www.passportjs.org/packages/passport-google-oauth20/) – Authentication middleware for Node.js
+- [Passport](http://www.passportjs.org/packages/passport-google-oauth20/) – Authentication middleware for Node.js
 
 
 
