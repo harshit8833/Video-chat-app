@@ -15,7 +15,7 @@ npm start
 
 ## Platforms
 
--[JavaScript](https://www.w3schools.com/js/)  –  Programming language
+- [JavaScript](https://www.w3schools.com/js/)  –  Programming language
 
 -[jQuery](https://jquery.com/)  –  JavaScript library
 
