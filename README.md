@@ -13,7 +13,7 @@ npm start
 
 ```
 
-## Platforms
+## Technologies Used
 
 - [JavaScript](https://www.w3schools.com/js/)  –  Programming language
 
@@ -31,10 +31,11 @@ npm start
 
 - [Passport](http://www.passportjs.org/packages/passport-google-oauth20/) – Authentication middleware for Node.js
 
+### Hosted
 
+Hosted on Heroku(https://www.heroku.com/) - https://obscure-bayou-59776.herokuapp.com/
 
 ### Version
-
 1.0.0
 
 
