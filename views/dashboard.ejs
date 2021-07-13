@@ -1,0 +1,39 @@
+<%- include('partials/header') %>
+
+
+<nav class="navbar navbar-dark bg-dark">
+  <a class="navbar-brand" href="/dashboard">Teams</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="https://thawing-escarpment-43487.herokuapp.com/">To Do List <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="/auth/logout">Logout <span class="sr-only">(current)</span></a>
+      </li>
+     
+    </ul>
+  </div>
+</nav>
+<div class="jumbotron centered">
+  <div class="container">
+    <i class="fas fa-fire fa-8x"></i>
+    <h1 class="display-3">Teams</h1>
+    <p class="lead">Lets Meet!</p>
+    <hr>
+    <a class="btn btn-light btn-lg" href="/meeting" role="button">New Meeting</a>
+    <a class="btn btn-dark btn-lg" href="/join" role="button">Join Meeting</a>
+
+  </div>
+</div>
+  <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+<%- include('partials/footer') %>
